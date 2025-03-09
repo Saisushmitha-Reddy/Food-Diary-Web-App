@@ -1,0 +1,2 @@
+An admin service file
+which can manage the list of food items, to perform operation such as CRUD!
